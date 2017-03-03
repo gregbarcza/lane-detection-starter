@@ -1,0 +1,20 @@
+{
+  "name": "opencv-lane-detection-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ascii-progress": "^1.0.5",
+    "bluebird": "^3.4.7",
+    "fluent-ffmpeg": "^2.1.0",
+    "numjs": "^0.12.4",
+    "opencv": "^6.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gergo Barcza",
+  "license": "ISC",
+  "engines" : { "node" : ">=6.9.4" }
+}
